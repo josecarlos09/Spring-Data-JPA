@@ -16,7 +16,15 @@
 
 ⦁	*Mapeamento das entidade*
 
-⦁	*Definir os graus de relacionamento entre as entidades*
+⦁	*Definir os graus de relacionamento entre as entidades*: 
+            
+           @OneToMany: 1 para M 
+
+           @ManyToOne: M para 1 
+
+           @OneToOne: 1 para 1 
+
+          @ManyToMany: M para M 
 
 ⦁	*Criação da interface JpaRepository*
 
